@@ -1,2 +1,2 @@
 #! /bin/bash
-java -jar JsTestDriver.jar --port 4224 --browser firefox
+java -jar JsTestDriver.jar --port 4224 --browser google-chrome,firefox,opera
